@@ -1,0 +1,2 @@
+python-decouple==3.4
+tweepy==3.10.0
